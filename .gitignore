@@ -1,0 +1,7 @@
+asl_alphabet_data/
+saved_model/
+*.keras
+dataset/
+.DS_Store
+new_data/
+__pycache__
